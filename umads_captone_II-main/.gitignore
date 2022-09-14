@@ -1,0 +1,9 @@
+.DS_Store
+/data/*.csv
+/data/*.txt
+/data/cleaned_data/*
+/data/.ipynb_checkpoints/*
+/notebooks/.ipynb_checkpoints/*
+/models/*.kv
+/models/*.npy
+
