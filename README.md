@@ -12,3 +12,6 @@ A few things to note:
 * Always `Restart Kernel and Clear All Outputs` before committing a notebook.
 * Do not commit the data (raw or cleaned) to source control.
   * For notebooks to run, download all the raw data from [here](https://www.kaggle.com/c/umich-siads-695-fall21-predicting-text-difficulty/data) and save it in the `data` directory.
+
+
+Read the SIADS Milestone II - Miller-Schaeffer & Zupan.pdf for a full report on methodologies and insights.
